@@ -1,0 +1,43 @@
+# Build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+artifacts/
+TestResults/
+**/TestResults/
+
+# NuGet packages
+/packages/
+*.nupkg
+
+# User-specific files
+*.user
+*.userossc
+*.suo
+*.sln.docstates
+*.DotSettings.user
+*.rsuser
+*.swp
+*.tmp
+
+# IDE settings
+.vs/
+.idea/
+.vscode/
+riderModule.iml
+/_ReSharper.Caches/
+
+# Logs
+logs/
+**/logs/
+*.log
+
+# Environment & secrets
+.env
+*.local
+*.secret
+
+# OS generated files
+.DS_Store
+Thumbs.db

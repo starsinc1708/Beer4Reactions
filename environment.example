@@ -1,0 +1,15 @@
+# База данных PostgreSQL
+POSTGRES_DB=Beer4ReactionsDB
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=beer4reactions_password_2024
+POSTGRES_PORT=5432
+
+# Приложение
+ASPNETCORE_ENVIRONMENT=Production
+APP_PORT=8080
+
+# Telegram Bot (ОБЯЗАТЕЛЬНО ЗАПОЛНИТЬ!)
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+
+# Adminer
+ADMINER_PORT=8081
